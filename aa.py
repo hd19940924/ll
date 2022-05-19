@@ -1,1 +1,1 @@
-print(bs(34))
+print(34)
